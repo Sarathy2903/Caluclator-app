@@ -46,7 +46,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/html-csss-grid-and-preferscolorscheme-and-jquery-yW3GdMroq](https://www.frontendmentor.io/solutions/html-csss-grid-and-preferscolorscheme-and-jquery-yW3GdMroq)
 - Live Site URL: [https://vatsalsinghkv.github.io/calculator-app](https://vatsalsinghkv.github.io/calculator-app)
 
 ### Built with
